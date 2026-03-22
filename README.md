@@ -1,4 +1,4 @@
-## Flight Price Prediction
+### Flight Price Prediction
 
 ### Project Overview
 This project predicts flight ticket prices using Machine Learning. It includes data preprocessing, feature engineering, and model building using XGBoost.
